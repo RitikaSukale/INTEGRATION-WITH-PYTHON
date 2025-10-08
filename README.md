@@ -74,4 +74,4 @@ The COVID-19 Death Trends & Analysis dashboard provides a powerful analytical to
 capabilities, this project delivers actionable insights through data-driven storytelling. The integration of excess deaths, COVID deaths, and non-COVID deaths offers a holistic view of the pandemic’s true burden on human lives. Future extensions could include time forecasting, predictive analytics, or integration with vaccination data for deeper trend analysis.
 
 OUTPUT:
-
+<img width="1321" height="755" alt="Image" src="https://github.com/user-attachments/assets/b7452787-c78f-4d3f-84f9-0856773cb165" />
